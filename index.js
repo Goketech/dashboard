@@ -9,7 +9,7 @@ menuBtn.addEventListener('click', () => {
 })
 
 // close sideBar
-closeBtn,addEventListener('click', () => {
+closeBtn.addEventListener('click', () => {
     sideMenu.style.display = 'none';
 })
 
